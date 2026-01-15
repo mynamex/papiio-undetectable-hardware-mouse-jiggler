@@ -1,6 +1,3 @@
-# papiio-undetectable-hardware-mouse-jiggler
-Undetectable hardware solution for Teams/Slack active status. No software required.
-
 # PAPI.IO - Undetectable Hardware Mouse Jiggler & Anti-AFK Solution
 
 ![PAPI.IO Device](https://papiio.com/img/tespit-edilemez-mouse-jiggler-donanim-papiio.jpg)
